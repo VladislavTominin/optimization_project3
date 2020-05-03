@@ -6,4 +6,4 @@ Overleaf link
 [Script](https://github.com/VladislavTominin/optimization_project3)
 Numerical experiments
 
-[Result](https://github.com/VladislavTominin/optimization_project3/blob/master/ms_taylor_3d.pdf)
+![Result](https://github.com/VladislavTominin/optimization_project3/blob/master/ms_taylor_3d.pdf)
